@@ -4,7 +4,7 @@
   @abstract(Target: Turbo Pascal, Free Pascal)
 }
 
-Program MSXDOS;
+Program COMMAND2;
 
 {$M 4096,0,0}
 

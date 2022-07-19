@@ -4,7 +4,7 @@
   @abstract(Target: Turbo Pascal, Free Pascal)
 }
 
-Program MSXBASIC;
+Program BASIC;
 
 Uses Crt,DOS,Printer;
 
