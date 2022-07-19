@@ -1,6 +1,10 @@
 # MSXDOS-0
 Clone des commandes du MSX-DOS des micro-ordinateurs MSX écrit en Pascal
 
+![image](https://user-images.githubusercontent.com/11842176/179816962-9f127fd8-b5ad-45fa-8d2f-f4d5171f3b67.png)
+
+![image](https://user-images.githubusercontent.com/11842176/179816606-e28b7d0b-7302-4245-8398-11d2f4882dad.png)
+
 <h2>Liste des fichiers</h2>
 
 Voici la liste des différents fichiers proposés dans MSXDOS-0 :
