@@ -13,7 +13,27 @@ Voici la liste des différents fichiers proposés dans MSXDOS-0 :
     <tr>
 			<td><b>BASIC.PAS</b></td>
 			<td>Cette commande permet de lancer l'interpréteur MSX BASIC.</td>
-		</tr>	
+		</tr>
+		<tr>
+			<td><b>COMMAND2.PAS</b></td>
+			<td>Cette commande permet de lancer l'interpréteur de commande <a href="https://www.gladir.com/OS/MSXDOS/intro.htm">MSX-DOS</a> .</td>
+		</tr>
+		<tr>
+			<td><b>TOOLS\HEAD.PAS</b>
+			<td>Cette commande permet d'afficher le début d'un fichier texte.</td>
+		</tr>
+		<tr>
+			<td><b>SORT.PAS</b></td>
+			<td>Cette commande permet de trier une fichier texte ASCII et de retourner le résultat.</td>	
+		</tr>
+		<tr>
+			<td><b>TOOLS\TAIL.PAS</b></td>
+			<td>Cette commande permet d'afficher la fin d'un fichier texte.</td>
+		</tr>
+		<tr>
+			<td><b>TOOLS\WC.PAS</b></td>
+			<td>Cette commande permet de compter le nombre de mots, de lignes ou de caractères.</td>
+		</tr>
 	</table>
 
 <h2>Compilation</h2>
