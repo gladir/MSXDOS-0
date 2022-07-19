@@ -27,7 +27,7 @@ Voici la liste des différents fichiers proposés dans MSXDOS-0 :
 			<td>Cette commande permet d'afficher le début d'un fichier texte.</td>
 		</tr>
 		<tr>
-			<td><b>SORT.PAS</b></td>
+			<td><b>TOOLS\SORT.PAS</b></td>
 			<td>Cette commande permet de trier une fichier texte ASCII et de retourner le résultat.</td>	
 		</tr>
 		<tr>
